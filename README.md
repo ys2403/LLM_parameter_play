@@ -1,6 +1,6 @@
 # Chat with LLM (HF Hub) 
 
-> A minimal, production-ready Streamlit chat app for Hugging Face Inference API with streaming, multi-sample decoding, JSON-mode, and safe response sanitization. This README documents the code in `app.py`.
+> A minimal, production-ready Streamlit chat app for Hugging Face Inference API with streaming, multi-sample decoding, JSON-mode, and safe response sanitization. This README documents the code in `main.py`.
 
 ---
 
