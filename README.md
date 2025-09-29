@@ -57,7 +57,7 @@ langchain-core>=0.2
 
 ### 4) Run the app
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ### 5) Open in the browser
