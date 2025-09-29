@@ -182,13 +182,11 @@ The app calls a thin wrapper around `InferenceClient.chat_completion` named `saf
 
 ---
 
-## 📝 License
-
-MIT (recommended). Add your LICENSE file accordingly.
-
----
-
 ## 🙌 Acknowledgments
 
 - Built with **Streamlit** and **Hugging Face Inference API**.  
 - Optional LangChain memory primitives for future extensibility.
+
+## Contact - 
+- yashdshah2403@gmail.com
+- https://www.linkedin.com/in/shah-yash24/
